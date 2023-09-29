@@ -1,17 +1,17 @@
-### Hi there 👋
+<h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> I Am Obo Coconut </h2>
+
+I am currently studying Information Systems at STMIK Professional Makassar, with a focus on Engineering Systems. I am also studying at [COCONUT](https://Coconut.or.id) as a system engineer.
+
+I like systems learning, human-computer interaction, and System engineering development. I also like my fair share of visual arts and creativity. In my spare time, I eat mangoes and play snorkeling.
+
+<img src="https://user-images.githubusercontent.com/65858180/137301567-37e84890-e360-4f86-9dcc-127ff7f4f85b.gif" >
+
+
+- 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
+- 🌱 I’m currently learning new things
+- 👯 I’m looking to collaborate on Opensourced Projects
+- 📫 How to reach me: [Instagram](https://www.instagram.com/aryawbowo/)
+
+
 [![An image of @obosky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obosky)](https://holopin.io/@obosky)
 
-<!--
-**oboninja/oboninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
