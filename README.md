@@ -1,6 +1,6 @@
 <h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> I Am Obo Coconut </h2>
 
-I am currently studying Information Systems at STMIK Professional Makassar, with a focus on Engineering Systems. I am also studying at [COCONUT](https://Coconut.or.id) as a system engineer.
+ I am also studying at [COCONUT](https://Coconut.or.id) as a system engineer.
 
 I like systems learning, human-computer interaction, and System engineering development. I also like my fair share of visual arts and creativity. In my spare time, I eat mangoes and play snorkeling.
 
@@ -10,7 +10,7 @@ I like systems learning, human-computer interaction, and System engineering deve
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
 - 👯 I’m looking to collaborate on Opensourced Projects
-- 📫 How to reach me: [Instagram](https://www.instagram.com/aryawbowo/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/a.obosky/)
 
 
 [![An image of @obosky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obosky)](https://holopin.io/@obosky)
