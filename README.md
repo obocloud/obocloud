@@ -9,6 +9,6 @@
 - 🌱 I’m currently learning new things
 - 👯 I’m looking to collaborate on Opensourced Projects
 - 📫 How to reach me: [Instagram](https://www.instagram.com/obocloud/)
-
+[![An image of @obosky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obosky)](https://holopin.io/@obosky)
 
 
